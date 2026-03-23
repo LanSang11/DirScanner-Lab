@@ -1,6 +1,6 @@
 🛡️ Python Security Lab (网络安全实验室)
 
-🇨🇳 简介: 本仓库用于记录网络安全工具的开发学习过程。从 v0.1 原型到 v0.4 专业版，真实还原解决编码报错、多线程死锁等问题的全过程。
+🇨🇳 简介: 本仓库用于记录目录扫描网络安全工具的开发学习过程。从 v0.1 原型到 v0.4 专业版，真实还原解决编码报错、多线程死锁等问题的全过程。
 🇺🇸 About: A repository dedicated to learning cybersecurity tool development. Documents the full journey from v0.1 prototype to v0.4 professional version, including real-world troubleshooting like encoding errors and threading deadlocks.
 
 📂 项目结构 / Project Structure
