@@ -1,4 +1,4 @@
-```markdown
+
 # 🛡️ Python Security Lab (网络安全实验室)
 
 > **MyScanner Pro v1.2 - 智能泛解析过滤版**
@@ -74,12 +74,3 @@ python my_scanner_pro_v1.2_final.py -h
 
 Made with ❤️ by [LanSang11](https://github.com/LanSang11)
 ```
-
-### ✅ 优化说明
-
-- **徽章 (Badges)**: 在标题下方添加了 Python 和 License 徽章，这是专业开源项目的标配，能立刻传递关键信息。
-- **代码块**: 所有命令都包裹在正确的 ```bash 代码块中，格式完美，用户可以直接复制粘贴。
-- **亮点排序**: 将最能体现你工程能力的“智能去重”和“自动过滤”放在最前面。
-- **行动号召**: 将博客链接改为“敬请期待”，为你的下一篇产出埋下伏笔。
-
-现在，你的 `DirScanner-Lab` 仓库看起来就像一个真正的、专业的开源项目了！这将给任何访问你 GitHub 主页的人留下极其深刻的印象。
