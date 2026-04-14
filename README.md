@@ -31,10 +31,7 @@
 ### 环境要求 / Requirements
 - Python 3.x
 - requests library
-
-```bash
 pip install -r requirements.txt
-
 运行示例 / Usage Examples
 基础扫描 (Basic Scan):
 bash
@@ -67,8 +64,11 @@ v1.2	🚀 最新	智能泛解析过滤，内容指纹去重，CSV报告增强。
 v0.5	📦 归档	新增风险评级系统，智能排序导出，Excel兼容性优化。
 v0.4	📦 归档	基础多线程扫描，CLI参数，进度条。
 
-想深入了解开发过程中的踩坑细节？ 请关注我的技术博客！(链接待填入)
+bash
+pip install -r requirements.txt
+
 ⚖️ 免责声明 / Disclaimer
 🇨🇳 本工具仅供网络安全学习和研究使用。严禁用于任何未授权的攻击行为。使用者需自行承担法律责任。
 🇺🇸 This tool is for educational and research purposes only. Do not use it for any unauthorized attacks. Users are solely responsible for their actions.
 Made with ❤️ by LanSang11
+
